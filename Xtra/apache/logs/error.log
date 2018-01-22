@@ -1,0 +1,10 @@
+[Tue May 24 00:28:03 2011] [notice] Apache/2.2.15 (Win32) PHP/5.2.13 configured -- resuming normal operations
+[Tue May 24 00:28:03 2011] [notice] Server built: Mar  4 2010 11:27:46
+[Tue May 24 00:28:03 2011] [notice] Parent: Created child process 3724
+[Tue May 24 00:28:04 2011] [notice] Child 3724: Child process is running
+[Tue May 24 00:28:04 2011] [notice] Child 3724: Acquired the start mutex.
+[Tue May 24 00:28:04 2011] [notice] Child 3724: Starting 64 worker threads.
+[Tue May 24 00:28:04 2011] [notice] Child 3724: Starting thread to listen on port 8080.
+[Tue May 24 00:28:08 2011] [error] [client 127.0.0.1] File does not exist: D:/Development/Usbwebserver/V8/Xtra/root/favicon.ico
+[Tue May 24 00:28:11 2011] [error] [client 127.0.0.1] File does not exist: D:/Development/Usbwebserver/V8/Xtra/root/favicon.ico
+[Tue May 24 00:46:35 2011] [notice] Parent: child process exited with status 1073807364 -- Restarting.

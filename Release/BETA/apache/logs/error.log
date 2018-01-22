@@ -1,0 +1,8 @@
+[Sat Jul 10 13:17:05 2010] [notice] Apache/2.2.15 (Win32) PHP/5.2.13 configured -- resuming normal operations
+[Sat Jul 10 13:17:05 2010] [notice] Server built: Mar  4 2010 11:27:46
+[Sat Jul 10 13:17:05 2010] [notice] Parent: Created child process 1468
+[Sat Jul 10 13:17:07 2010] [notice] Child 1468: Child process is running
+[Sat Jul 10 13:17:07 2010] [notice] Child 1468: Acquired the start mutex.
+[Sat Jul 10 13:17:07 2010] [notice] Child 1468: Starting 64 worker threads.
+[Sat Jul 10 13:17:07 2010] [notice] Child 1468: Starting thread to listen on port 8080.
+[Sat Jul 10 13:17:07 2010] [error] [client 127.0.0.1] File does not exist: E:/Projecten/Usbwebserver/V8/Release/BETA/root/favicon.ico

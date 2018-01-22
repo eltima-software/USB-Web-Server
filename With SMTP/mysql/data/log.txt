@@ -1,0 +1,72 @@
+100312 20:48:19 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:48:19 [Note] Plugin 'InnoDB' is disabled.
+100312 20:48:19 [Note] Event Scheduler: Loaded 0 events
+100312 20:48:19 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 20:48:43 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:48:43 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:48:43 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:48:43 [ERROR] Aborting
+
+100312 20:48:43 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:49:48 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:49:48 [Note] Plugin 'InnoDB' is disabled.
+100312 20:49:48 [Note] Event Scheduler: Loaded 0 events
+100312 20:49:48 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 20:50:03 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:03 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:50:03 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:50:03 [ERROR] Aborting
+
+100312 20:50:03 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:50:22 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:22 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:50:22 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:50:22 [ERROR] Aborting
+
+100312 20:50:22 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:50:23 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:23 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:50:23 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:50:23 [ERROR] Aborting
+
+100312 20:50:23 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+mysql/bin/mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument
+mysqld_usbwv8, Version: 5.1.44-community-log (MySQL Community Server (GPL)). started with:
+TCP Port: 3307, Named Pipe: (null)
+Time                 Id Command    Argument

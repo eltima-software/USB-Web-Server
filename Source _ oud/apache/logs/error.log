@@ -1,0 +1,7 @@
+[Wed Nov 03 23:14:14 2010] [notice] Apache/2.2.15 (Win32) PHP/5.2.13 configured -- resuming normal operations
+[Wed Nov 03 23:14:14 2010] [notice] Server built: Mar  4 2010 11:27:46
+[Wed Nov 03 23:14:14 2010] [notice] Parent: Created child process 3260
+[Wed Nov 03 23:14:16 2010] [notice] Child 3260: Child process is running
+[Wed Nov 03 23:14:16 2010] [notice] Child 3260: Acquired the start mutex.
+[Wed Nov 03 23:14:16 2010] [notice] Child 3260: Starting 64 worker threads.
+[Wed Nov 03 23:14:16 2010] [notice] Child 3260: Starting thread to listen on port 8080.

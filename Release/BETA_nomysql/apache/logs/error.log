@@ -1,0 +1,7 @@
+[Fri Aug 27 02:22:03 2010] [notice] Apache/2.2.15 (Win32) PHP/5.2.13 configured -- resuming normal operations
+[Fri Aug 27 02:22:03 2010] [notice] Server built: Mar  4 2010 11:27:46
+[Fri Aug 27 02:22:03 2010] [notice] Parent: Created child process 2720
+[Fri Aug 27 02:22:04 2010] [notice] Child 2720: Child process is running
+[Fri Aug 27 02:22:04 2010] [notice] Child 2720: Acquired the start mutex.
+[Fri Aug 27 02:22:04 2010] [notice] Child 2720: Starting 64 worker threads.
+[Fri Aug 27 02:22:05 2010] [notice] Child 2720: Starting thread to listen on port 8080.

@@ -1,0 +1,8 @@
+[Wed Nov 03 23:18:48 2010] [notice] Apache/2.2.15 (Win32) PHP/5.2.13 configured -- resuming normal operations
+[Wed Nov 03 23:18:48 2010] [notice] Server built: Mar  4 2010 11:27:46
+[Wed Nov 03 23:18:48 2010] [notice] Parent: Created child process 4516
+[Wed Nov 03 23:18:49 2010] [notice] Child 4516: Child process is running
+[Wed Nov 03 23:18:49 2010] [notice] Child 4516: Acquired the start mutex.
+[Wed Nov 03 23:18:49 2010] [notice] Child 4516: Starting 64 worker threads.
+[Wed Nov 03 23:18:49 2010] [notice] Child 4516: Starting thread to listen on port 8080.
+[Wed Nov 03 23:18:58 2010] [error] [client 127.0.0.1] File does not exist: F:/Projecten/Usbwebserver/V8/Release/FINAL_nomysql/root/favicon.ico

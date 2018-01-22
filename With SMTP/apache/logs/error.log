@@ -1,0 +1,12 @@
+[Fri Jul 16 00:28:40 2010] [notice] Apache/2.2.15 (Win32) PHP/5.2.13 configured -- resuming normal operations
+[Fri Jul 16 00:28:40 2010] [notice] Server built: Mar  4 2010 11:27:46
+[Fri Jul 16 00:28:40 2010] [notice] Parent: Created child process 7036
+[Fri Jul 16 00:28:41 2010] [notice] Child 7036: Child process is running
+[Fri Jul 16 00:28:41 2010] [notice] Child 7036: Acquired the start mutex.
+[Fri Jul 16 00:28:41 2010] [notice] Child 7036: Starting 64 worker threads.
+[Fri Jul 16 00:28:41 2010] [notice] Child 7036: Starting thread to listen on port 8080.
+[Fri Jul 16 00:28:43 2010] [error] [client 127.0.0.1] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 relay not permitted, authentication required in E:\\Projecten\\Usbwebserver\\V8\\With SMTP\\root\\test.php on line 2
+[Fri Jul 16 00:28:43 2010] [error] [client 127.0.0.1] File does not exist: E:/Projecten/Usbwebserver/V8/With SMTP/root/favicon.ico
+[Fri Jul 16 00:28:45 2010] [error] [client 127.0.0.1] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SMTP server response: 550 relay not permitted, authentication required in E:\\Projecten\\Usbwebserver\\V8\\With SMTP\\root\\test.php on line 2
+[Fri Jul 16 00:28:45 2010] [error] [client 127.0.0.1] File does not exist: E:/Projecten/Usbwebserver/V8/With SMTP/root/favicon.ico
+[Fri Jul 16 01:35:18 2010] [notice] Parent: child process exited with status 1073807364 -- Restarting.

@@ -1,0 +1,6 @@
+For the USBWebserver package the config file has been editted.
+And the website url has been changed to:
+
+$url = explode("\\bamboo_system_files",__FILE__);
+$dir = end(explode("\\",$url[0]));
+$config['base_url']	= 'http://localhost:8080/'.$dir.'/';

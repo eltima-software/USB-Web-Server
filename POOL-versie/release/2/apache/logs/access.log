@@ -1,0 +1,14 @@
+127.0.0.1 - - [02/May/2011:22:56:28 +0200] "GET / HTTP/1.1" 200 72784
+127.0.0.1 - - [02/May/2011:22:56:28 +0200] "GET /index.php?=PHPE9568F34-D428-11d2-A769-00AA001ACF42 HTTP/1.1" 200 2524
+127.0.0.1 - - [02/May/2011:22:56:28 +0200] "GET /index.php?=PHPE9568F35-D428-11d2-A769-00AA001ACF42 HTTP/1.1" 200 2146
+127.0.0.1 - - [02/May/2011:22:56:28 +0200] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [02/May/2011:22:56:43 +0200] "GET /phpmyadmin/ HTTP/1.1" 200 4213
+127.0.0.1 - - [02/May/2011:22:56:43 +0200] "GET /phpmyadmin/print.css HTTP/1.1" 200 1063
+127.0.0.1 - - [02/May/2011:22:56:43 +0200] "GET /phpmyadmin/phpmyadmin.css.php?token=41532ca3700e10e77e389357514ff749&js_frame=right&nocache=3905398555 HTTP/1.1" 200 21786
+127.0.0.1 - - [02/May/2011:22:56:43 +0200] "GET /phpmyadmin/themes/original/img/logo_right.png HTTP/1.1" 200 5658
+127.0.0.1 - - [02/May/2011:22:56:43 +0200] "GET /phpmyadmin/themes/original/img/b_help.png HTTP/1.1" 200 229
+127.0.0.1 - - [02/May/2011:22:56:44 +0200] "GET /phpmyadmin/ HTTP/1.1" 200 3595
+127.0.0.1 - - [02/May/2011:22:56:44 +0200] "GET /phpmyadmin/print.css HTTP/1.1" 304 -
+127.0.0.1 - - [02/May/2011:22:56:44 +0200] "GET /phpmyadmin/phpmyadmin.css.php?token=41532ca3700e10e77e389357514ff749&js_frame=right&nocache=3905398555 HTTP/1.1" 200 21786
+127.0.0.1 - - [02/May/2011:22:56:44 +0200] "GET /phpmyadmin/themes/original/img/b_help.png HTTP/1.1" 304 -
+127.0.0.1 - - [02/May/2011:22:56:44 +0200] "GET /phpmyadmin/themes/original/img/logo_right.png HTTP/1.1" 304 -

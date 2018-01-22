@@ -1,0 +1,8 @@
+[Wed Feb 15 01:14:02 2012] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Wed Feb 15 01:14:02 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Feb 15 01:14:02 2012] [notice] Parent: Created child process 6860
+[Wed Feb 15 01:14:02 2012] [notice] Child 6860: Child process is running
+[Wed Feb 15 01:14:02 2012] [notice] Child 6860: Acquired the start mutex.
+[Wed Feb 15 01:14:02 2012] [notice] Child 6860: Starting 64 worker threads.
+[Wed Feb 15 01:14:02 2012] [notice] Child 6860: Starting thread to listen on port 8080.
+[Wed Feb 15 01:14:02 2012] [notice] Child 6860: Starting thread to listen on port 8080.

@@ -1,0 +1,54 @@
+[Sun Jan 15 19:46:29 2012] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Sun Jan 15 19:46:29 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Jan 15 19:46:29 2012] [notice] Parent: Created child process 3200
+[Sun Jan 15 19:46:29 2012] [notice] Child 3200: Child process is running
+[Sun Jan 15 19:46:29 2012] [notice] Child 3200: Acquired the start mutex.
+[Sun Jan 15 19:46:29 2012] [notice] Child 3200: Starting 64 worker threads.
+[Sun Jan 15 19:46:29 2012] [notice] Child 3200: Starting thread to listen on port 8080.
+[Sun Jan 15 19:46:29 2012] [notice] Child 3200: Starting thread to listen on port 8080.
+[Sun Jan 15 19:47:38 2012] [warn] pid file E:/Development/Usbwebserver/V8/Source - 8.5/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 15 19:47:38 2012] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Sun Jan 15 19:47:38 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Jan 15 19:47:38 2012] [notice] Parent: Created child process 8056
+[Sun Jan 15 19:47:39 2012] [notice] Child 8056: Child process is running
+[Sun Jan 15 19:47:39 2012] [notice] Child 8056: Acquired the start mutex.
+[Sun Jan 15 19:47:39 2012] [notice] Child 8056: Starting 64 worker threads.
+[Sun Jan 15 19:47:39 2012] [notice] Child 8056: Starting thread to listen on port 8080.
+[Sun Jan 15 19:47:39 2012] [notice] Child 8056: Starting thread to listen on port 8080.
+[Sun Jan 15 19:48:05 2012] [warn] pid file E:/Development/Usbwebserver/V8/Source - 8.5/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 15 19:48:05 2012] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Sun Jan 15 19:48:05 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Jan 15 19:48:05 2012] [notice] Parent: Created child process 7604
+Apache server shutdown initiated...
+Child 7604: Child process is running
+[Sun Jan 15 19:48:05 2012] [notice] Child 7604: Acquired the start mutex.
+[Sun Jan 15 19:48:05 2012] [notice] Child 7604: Starting 64 worker threads.
+[Sun Jan 15 19:48:05 2012] [notice] Child 7604: Starting thread to listen on port 8080.
+[Sun Jan 15 19:48:05 2012] [notice] Child 7604: Starting thread to listen on port 8080.
+[Sun Jan 15 19:48:14 2012] [error] [client ::1] PHP Deprecated:  Function eregi() is deprecated in E:\\Development\\Usbwebserver\\V8\\Source - 8.5\\root\\index.php on line 4
+[Sun Jan 15 19:48:14 2012] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /nl/%3C?=%20URL%20?%3Estyle.css HTTP/1.1 to file, referer: http://localhost:8080/nl/
+[Sun Jan 15 19:48:14 2012] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /nl/%3C?=%20URL%20?%3Ejavascript.js HTTP/1.1 to file, referer: http://localhost:8080/nl/
+[Sun Jan 15 19:48:14 2012] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /nl/%3C?=%20URL%20?%3Eimages/header.png HTTP/1.1 to file, referer: http://localhost:8080/nl/
+[Sun Jan 15 19:48:14 2012] [error] [client ::1] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /nl/%3C?=%20URL%20?%3Eimages/flags/nl.png HTTP/1.1 to file, referer: http://localhost:8080/nl/
+[Sun Jan 15 19:48:14 2012] [error] [client ::1] File does not exist: E:/Development/Usbwebserver/V8/Source - 8.5/root/nl/'.URL .'images, referer: http://localhost:8080/nl/
+[Sun Jan 15 19:48:14 2012] [error] [client ::1] File does not exist: E:/Development/Usbwebserver/V8/Source - 8.5/root/favicon.ico
+[Sun Jan 15 19:48:23 2012] [error] [client ::1] script 'E:/Development/Usbwebserver/V8/Source - 8.5/root/phpmyinfo.php' not found or unable to stat
+[Sun Jan 15 19:48:23 2012] [error] [client ::1] File does not exist: E:/Development/Usbwebserver/V8/Source - 8.5/root/favicon.ico
+[Sun Jan 15 19:48:27 2012] [error] [client ::1] PHP Warning:  phpinfo() [<a href='function.phpinfo'>function.phpinfo</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/Paris' for '1.0/no DST' instead in E:\\Development\\Usbwebserver\\V8\\Source - 8.5\\root\\phpinfo.php on line 2
+[Sun Jan 15 19:48:27 2012] [error] [client ::1] File does not exist: E:/Development/Usbwebserver/V8/Source - 8.5/root/favicon.ico
+[Sun Jan 15 19:48:57 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 15 19:48:57 2012] [notice] Child 7604: Exit event signaled. Child process is ending.
+[Sun Jan 15 19:48:58 2012] [notice] Child 7604: Released the start mutex
+[Sun Jan 15 19:48:59 2012] [notice] Child 7604: All worker threads have exited.
+[Sun Jan 15 19:48:59 2012] [notice] Child 7604: Child process is exiting
+[Sun Jan 15 19:48:59 2012] [notice] Parent: Child process exited successfully.
+[Sun Jan 15 20:09:25 2012] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Sun Jan 15 20:09:25 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Jan 15 20:09:25 2012] [notice] Parent: Created child process 8168
+[Sun Jan 15 20:09:25 2012] [notice] Child 8168: Child process is running
+[Sun Jan 15 20:09:25 2012] [notice] Child 8168: Acquired the start mutex.
+[Sun Jan 15 20:09:25 2012] [notice] Child 8168: Starting 64 worker threads.
+[Sun Jan 15 20:09:25 2012] [notice] Child 8168: Starting thread to listen on port 8080.
+[Sun Jan 15 20:09:25 2012] [notice] Child 8168: Starting thread to listen on port 8080.
+[Sun Jan 15 20:10:28 2012] [error] [client ::1] File does not exist: E:/Development/Usbwebserver/V8/Source - 8.5/root/favicon.ico
+[Sun Jan 15 20:11:33 2012] [error] [client ::1] File does not exist: E:/Development/Usbwebserver/V8/Source - 8.5/root/favicon.ico

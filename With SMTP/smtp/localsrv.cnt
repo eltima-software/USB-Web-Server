@@ -1,0 +1,13 @@
+:Base localsrv.hlp
+1 About the program
+2 About the program=hlp_about
+2 Purpose of the program=hlp_purpose
+2 Other Products=hlp_otherproducts
+1 How to use
+2 Purpose of the program=hlp_purpose
+2 User interface=hlp_userinterface
+2 How to use=hlp_howtouse
+1 Frequently asked questions
+2 What is Free SMTP Server?=hlp_purpose
+2 How to contact us?=hlp_about
+2 How to use the program?=hlp_howtouse

@@ -1,0 +1,1034 @@
+100310 23:26:44 [Note] Plugin 'FEDERATED' is disabled.
+100310 23:26:44 [Note] Plugin 'InnoDB' is disabled.
+100310 23:26:45 [Note] Event Scheduler: Loaded 0 events
+100310 23:26:45 [Note] C:\Users\Leon\Desktop\usbw\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100310 23:27:46 [Note] Plugin 'FEDERATED' is disabled.
+100310 23:27:46 [Note] Plugin 'InnoDB' is disabled.
+100310 23:27:46 [Note] Event Scheduler: Loaded 0 events
+100310 23:27:46 [Note] mysqld.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100311 21:48:54 [Note] Plugin 'FEDERATED' is disabled.
+100311 21:48:54 [Note] Plugin 'InnoDB' is disabled.
+100311 21:48:54 [Note] Event Scheduler: Loaded 0 events
+100311 21:48:54 [Note] mysqld.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100312 15:39:19 [Note] Plugin 'FEDERATED' is disabled.
+100312 15:39:19 [Note] Plugin 'InnoDB' is disabled.
+100312 15:39:19 [Note] Event Scheduler: Loaded 0 events
+100312 15:39:19 [Note] mysqld.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 15:39:34 [Note] Plugin 'FEDERATED' is disabled.
+100312 15:39:34 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 15:39:34 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 15:39:34 [ERROR] Aborting
+
+100312 15:39:34 [Note] mysqld.exe: Shutdown complete
+
+100312 15:39:42 [Note] Plugin 'FEDERATED' is disabled.
+100312 15:39:42 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 15:39:42 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 15:39:42 [ERROR] Aborting
+
+100312 15:39:42 [Note] mysqld.exe: Shutdown complete
+
+100312 15:40:18 [Note] Plugin 'FEDERATED' is disabled.
+100312 15:40:18 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 15:40:18 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 15:40:18 [ERROR] Aborting
+
+100312 15:40:18 [Note] mysqld.exe: Shutdown complete
+
+100312 15:41:38 [Note] Plugin 'FEDERATED' is disabled.
+100312 15:41:38 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 15:41:38 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 15:41:38 [ERROR] Aborting
+
+100312 15:41:38 [Note] mysqld.exe: Shutdown complete
+
+100312 20:50:41 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:41 [Note] Plugin 'InnoDB' is disabled.
+100312 20:50:41 [Note] Event Scheduler: Loaded 0 events
+100312 20:50:41 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community-log'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 20:50:55 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:55 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:50:55 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:50:55 [ERROR] Aborting
+
+100312 20:50:55 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:50:56 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:56 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:50:56 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:50:56 [ERROR] Aborting
+
+100312 20:50:56 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:50:57 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:57 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:50:57 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:50:57 [ERROR] Aborting
+
+100312 20:50:57 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:50:58 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:58 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:50:58 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:50:58 [ERROR] Aborting
+
+100312 20:50:58 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:50:59 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:50:59 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:50:59 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:50:59 [ERROR] Aborting
+
+100312 20:50:59 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:51:00 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:51:00 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:51:00 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:51:00 [ERROR] Aborting
+
+100312 20:51:00 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:51:01 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:51:01 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:51:01 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:51:01 [ERROR] Aborting
+
+100312 20:51:01 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:51:02 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:51:02 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:51:02 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:51:02 [ERROR] Aborting
+
+100312 20:51:02 [Note] C:\Users\Leon\Desktop\usbwebserver\mysql\bin\mysqld_usbwv8.exe: Shutdown complete
+
+100312 20:51:16 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:51:16 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:51:16 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:51:16 [ERROR] Aborting
+
+100312 20:51:16 [Note] mysqld_usbwv8: Shutdown complete
+
+100312 20:51:45 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:51:45 [Note] Plugin 'InnoDB' is disabled.
+100312 20:51:45 [Note] Event Scheduler: Loaded 0 events
+100312 20:51:45 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 20:51:48 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:51:48 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:51:48 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:51:48 [ERROR] Aborting
+
+100312 20:51:48 [Note] mysqld_usbwv8: Shutdown complete
+
+100312 20:51:51 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:51:51 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:51:51 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:51:51 [ERROR] Aborting
+
+100312 20:51:51 [Note] mysqld_usbwv8: Shutdown complete
+
+100312 20:52:15 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:52:15 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 20:52:15 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 20:52:15 [ERROR] Aborting
+
+100312 20:52:15 [Note] mysqld_usbwv8: Shutdown complete
+
+100312 20:54:09 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:54:09 [Note] Plugin 'InnoDB' is disabled.
+100312 20:54:09 [Note] Event Scheduler: Loaded 0 events
+100312 20:54:09 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 20:58:29 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:58:29 [Note] Plugin 'InnoDB' is disabled.
+100312 20:58:29 [Note] Event Scheduler: Loaded 0 events
+100312 20:58:29 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 20:58:59 [Note] Plugin 'FEDERATED' is disabled.
+100312 20:58:59 [Note] Plugin 'InnoDB' is disabled.
+100312 20:58:59 [Note] Event Scheduler: Loaded 0 events
+100312 20:58:59 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 21:06:50 [Note] Plugin 'FEDERATED' is disabled.
+100312 21:06:50 [Note] Plugin 'InnoDB' is disabled.
+100312 21:06:50 [Note] Event Scheduler: Loaded 0 events
+100312 21:06:50 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 23:38:21 [Note] Plugin 'FEDERATED' is disabled.
+100312 23:38:21 [Note] Plugin 'InnoDB' is disabled.
+100312 23:38:21 [Note] Event Scheduler: Loaded 0 events
+100312 23:38:21 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100312 23:50:47 [Note] Plugin 'FEDERATED' is disabled.
+100312 23:50:47 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100312 23:50:47 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100312 23:50:47 [ERROR] Aborting
+
+100312 23:50:47 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100312 23:54:44 [Note] Plugin 'FEDERATED' is disabled.
+100312 23:54:44 [Note] Plugin 'InnoDB' is disabled.
+100312 23:54:44 [Note] Event Scheduler: Loaded 0 events
+100312 23:54:44 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100314 19:10:59 [Note] Plugin 'FEDERATED' is disabled.
+100314 19:10:59 [Note] Plugin 'InnoDB' is disabled.
+100314 19:10:59 [Note] Event Scheduler: Loaded 0 events
+100314 19:10:59 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100314 19:11:24 [Note] Plugin 'FEDERATED' is disabled.
+100314 19:11:24 [Note] Plugin 'InnoDB' is disabled.
+100314 19:11:24 [Note] Event Scheduler: Loaded 0 events
+100314 19:11:24 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100317 19:23:43 [Note] Plugin 'FEDERATED' is disabled.
+100317 19:23:43 [Note] Plugin 'InnoDB' is disabled.
+100317 19:23:43 [Note] Event Scheduler: Loaded 0 events
+100317 19:23:43 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100325 18:12:08 [Note] Plugin 'FEDERATED' is disabled.
+100325 18:12:08 [Note] Plugin 'InnoDB' is disabled.
+100325 18:12:08 [Note] Event Scheduler: Loaded 0 events
+100325 18:12:08 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100325 18:12:20 [Note] Plugin 'FEDERATED' is disabled.
+100325 18:12:20 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100325 18:12:20 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100325 18:12:20 [ERROR] Aborting
+
+100325 18:12:20 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100325 18:12:37 [Note] Plugin 'FEDERATED' is disabled.
+100325 18:12:37 [Note] Plugin 'InnoDB' is disabled.
+100325 18:12:37 [Note] Event Scheduler: Loaded 0 events
+100325 18:12:37 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100325 18:15:20 [Note] Plugin 'FEDERATED' is disabled.
+100325 18:15:20 [Note] Plugin 'InnoDB' is disabled.
+100325 18:15:20 [Note] Event Scheduler: Loaded 0 events
+100325 18:15:20 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100325 18:16:20 [Note] Plugin 'FEDERATED' is disabled.
+100325 18:16:20 [Note] Plugin 'InnoDB' is disabled.
+100325 18:16:20 [Note] Event Scheduler: Loaded 0 events
+100325 18:16:20 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100325 18:16:38 [Note] Plugin 'FEDERATED' is disabled.
+100325 18:16:38 [Note] Plugin 'InnoDB' is disabled.
+100325 18:16:38 [Note] Event Scheduler: Loaded 0 events
+100325 18:16:38 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100325 18:17:06 [Note] Plugin 'FEDERATED' is disabled.
+100325 18:17:06 [Note] Plugin 'InnoDB' is disabled.
+100325 18:17:06 [Note] Event Scheduler: Loaded 0 events
+100325 18:17:06 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100326 16:17:02 [Note] Plugin 'FEDERATED' is disabled.
+100326 16:17:02 [Note] Plugin 'InnoDB' is disabled.
+100326 16:17:02 [Note] Event Scheduler: Loaded 0 events
+100326 16:17:02 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 22:21:13 [Note] Plugin 'FEDERATED' is disabled.
+100329 22:21:13 [Note] Plugin 'InnoDB' is disabled.
+100329 22:21:14 [Note] Event Scheduler: Loaded 0 events
+100329 22:21:14 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:25:44 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:25:44 [Note] Plugin 'InnoDB' is disabled.
+100329 23:25:44 [Note] Event Scheduler: Loaded 0 events
+100329 23:25:44 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:25:54 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:25:54 [Note] Plugin 'InnoDB' is disabled.
+100329 23:25:54 [Note] Event Scheduler: Loaded 0 events
+100329 23:25:54 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:27:06 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:27:06 [Note] Plugin 'InnoDB' is disabled.
+100329 23:27:06 [Note] Event Scheduler: Loaded 0 events
+100329 23:27:06 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:27:53 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:27:53 [Note] Plugin 'InnoDB' is disabled.
+100329 23:27:53 [Note] Event Scheduler: Loaded 0 events
+100329 23:27:53 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:33:01 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:33:01 [Note] Plugin 'InnoDB' is disabled.
+100329 23:33:01 [Note] Event Scheduler: Loaded 0 events
+100329 23:33:01 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:33:49 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:33:49 [Note] Plugin 'InnoDB' is disabled.
+100329 23:33:49 [Note] Event Scheduler: Loaded 0 events
+100329 23:33:49 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:34:25 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:34:25 [Note] Plugin 'InnoDB' is disabled.
+100329 23:34:25 [Note] Event Scheduler: Loaded 0 events
+100329 23:34:25 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:35:02 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:35:02 [Note] Plugin 'InnoDB' is disabled.
+100329 23:35:02 [Note] Event Scheduler: Loaded 0 events
+100329 23:35:02 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:44:23 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:44:23 [Note] Plugin 'InnoDB' is disabled.
+100329 23:44:23 [Note] Event Scheduler: Loaded 0 events
+100329 23:44:23 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:44:52 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:44:52 [Note] Plugin 'InnoDB' is disabled.
+100329 23:44:52 [Note] Event Scheduler: Loaded 0 events
+100329 23:44:52 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100329 23:49:46 [Note] Plugin 'FEDERATED' is disabled.
+100329 23:49:46 [Note] Plugin 'InnoDB' is disabled.
+100329 23:49:46 [Note] Event Scheduler: Loaded 0 events
+100329 23:49:46 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:09:04 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:09:04 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:09:04 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:09:04 [ERROR] Aborting
+
+100330  0:09:04 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:09:20 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:09:20 [Note] Plugin 'InnoDB' is disabled.
+100330  0:09:20 [Note] Event Scheduler: Loaded 0 events
+100330  0:09:20 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:14:15 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:14:15 [Note] Plugin 'InnoDB' is disabled.
+100330  0:14:15 [Note] Event Scheduler: Loaded 0 events
+100330  0:14:15 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:14:20 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:14:20 [Note] Plugin 'InnoDB' is disabled.
+100330  0:14:20 [Note] Event Scheduler: Loaded 0 events
+100330  0:14:20 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:14:28 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:14:28 [Note] Plugin 'InnoDB' is disabled.
+100330  0:14:28 [Note] Event Scheduler: Loaded 0 events
+100330  0:14:28 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:14:47 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:14:47 [Note] Plugin 'InnoDB' is disabled.
+100330  0:14:47 [Note] Event Scheduler: Loaded 0 events
+100330  0:14:47 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:18:52 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:18:52 [Note] Plugin 'InnoDB' is disabled.
+100330  0:18:52 [Note] Event Scheduler: Loaded 0 events
+100330  0:18:52 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:19:04 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:19:04 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:19:04 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:19:04 [ERROR] Aborting
+
+100330  0:19:04 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:19:21 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:19:21 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:19:21 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:19:21 [ERROR] Aborting
+
+100330  0:19:21 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:19:38 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:19:38 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:19:38 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:19:38 [ERROR] Aborting
+
+100330  0:19:38 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:19:54 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:19:54 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:19:54 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:19:54 [ERROR] Aborting
+
+100330  0:19:54 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:20:13 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:20:13 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:20:13 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:20:13 [ERROR] Aborting
+
+100330  0:20:13 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:21:25 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:21:25 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:21:25 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:21:25 [ERROR] Aborting
+
+100330  0:21:25 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:21:39 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:21:39 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:21:39 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:21:39 [ERROR] Aborting
+
+100330  0:21:39 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:21:46 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:21:46 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:21:46 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:21:46 [ERROR] Aborting
+
+100330  0:21:46 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:21:55 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:21:55 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:21:55 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:21:55 [ERROR] Aborting
+
+100330  0:21:55 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:24:54 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:24:54 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:24:54 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:24:54 [ERROR] Aborting
+
+100330  0:24:54 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:26:54 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:26:54 [Note] Plugin 'InnoDB' is disabled.
+100330  0:26:54 [Note] Event Scheduler: Loaded 0 events
+100330  0:26:54 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:27:03 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:27:03 [Note] Plugin 'InnoDB' is disabled.
+100330  0:27:03 [Note] Event Scheduler: Loaded 0 events
+100330  0:27:03 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:28:09 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:28:09 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:28:09 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:28:09 [ERROR] Aborting
+
+100330  0:28:09 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:28:40 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:28:40 [Note] Plugin 'InnoDB' is disabled.
+100330  0:28:40 [Note] Event Scheduler: Loaded 0 events
+100330  0:28:40 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:32:38 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:32:38 [Note] Plugin 'InnoDB' is disabled.
+100330  0:32:38 [Note] Event Scheduler: Loaded 0 events
+100330  0:32:38 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:33:29 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:33:29 [Note] Plugin 'InnoDB' is disabled.
+100330  0:33:29 [Note] Event Scheduler: Loaded 0 events
+100330  0:33:29 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:34:44 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:34:44 [Note] Plugin 'InnoDB' is disabled.
+100330  0:34:44 [Note] Event Scheduler: Loaded 0 events
+100330  0:34:44 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:35:43 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:35:43 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:35:43 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:35:43 [ERROR] Aborting
+
+100330  0:35:43 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:38:25 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:38:25 [Note] Plugin 'InnoDB' is disabled.
+100330  0:38:25 [Note] Event Scheduler: Loaded 0 events
+100330  0:38:25 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:39:03 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:39:03 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:39:03 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:39:03 [ERROR] Aborting
+
+100330  0:39:03 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:42:40 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:42:40 [Note] Plugin 'InnoDB' is disabled.
+100330  0:42:40 [Note] Event Scheduler: Loaded 0 events
+100330  0:42:40 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:43:33 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:43:33 [Note] Plugin 'InnoDB' is disabled.
+100330  0:43:33 [Note] Event Scheduler: Loaded 0 events
+100330  0:43:33 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:51:38 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:51:38 [Note] Plugin 'InnoDB' is disabled.
+100330  0:51:38 [Note] Event Scheduler: Loaded 0 events
+100330  0:51:38 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:51:53 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:51:53 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330  0:51:53 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330  0:51:53 [ERROR] Aborting
+
+100330  0:51:53 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330  0:51:56 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:51:56 [Note] Plugin 'InnoDB' is disabled.
+100330  0:51:56 [Note] Event Scheduler: Loaded 0 events
+100330  0:51:56 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:54:06 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:54:06 [Note] Plugin 'InnoDB' is disabled.
+100330  0:54:06 [Note] Event Scheduler: Loaded 0 events
+100330  0:54:06 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:54:18 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:54:18 [Note] Plugin 'InnoDB' is disabled.
+100330  0:54:18 [Note] Event Scheduler: Loaded 0 events
+100330  0:54:18 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330  0:54:29 [Note] Plugin 'FEDERATED' is disabled.
+100330  0:54:29 [Note] Plugin 'InnoDB' is disabled.
+100330  0:54:29 [Note] Event Scheduler: Loaded 0 events
+100330  0:54:29 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:28:37 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:28:37 [Note] Plugin 'InnoDB' is disabled.
+100330 10:28:37 [Note] Event Scheduler: Loaded 0 events
+100330 10:28:37 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:28:51 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:28:51 [Note] Plugin 'InnoDB' is disabled.
+100330 10:28:51 [Note] Event Scheduler: Loaded 0 events
+100330 10:28:51 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:34:38 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:34:38 [Note] Plugin 'InnoDB' is disabled.
+100330 10:34:38 [Note] Event Scheduler: Loaded 0 events
+100330 10:34:38 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:34:43 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:34:43 [Note] Plugin 'InnoDB' is disabled.
+100330 10:34:43 [Note] Event Scheduler: Loaded 0 events
+100330 10:34:43 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:34:50 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:34:50 [Note] Plugin 'InnoDB' is disabled.
+100330 10:34:50 [Note] Event Scheduler: Loaded 0 events
+100330 10:34:50 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:35:00 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:35:00 [Note] Plugin 'InnoDB' is disabled.
+100330 10:35:00 [Note] Event Scheduler: Loaded 0 events
+100330 10:35:00 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:35:52 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:35:52 [Note] Plugin 'InnoDB' is disabled.
+100330 10:35:52 [Note] Event Scheduler: Loaded 0 events
+100330 10:35:52 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:36:00 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:36:00 [Note] Plugin 'InnoDB' is disabled.
+100330 10:36:00 [Note] Event Scheduler: Loaded 0 events
+100330 10:36:00 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:36:20 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:36:20 [Note] Plugin 'InnoDB' is disabled.
+100330 10:36:20 [Note] Event Scheduler: Loaded 0 events
+100330 10:36:20 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:36:46 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:36:46 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 10:36:46 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 10:36:46 [ERROR] Aborting
+
+100330 10:36:46 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 10:37:12 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:37:12 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 10:37:12 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 10:37:12 [ERROR] Aborting
+
+100330 10:37:12 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 10:38:34 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:38:34 [Note] Plugin 'InnoDB' is disabled.
+100330 10:38:34 [Note] Event Scheduler: Loaded 0 events
+100330 10:38:34 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:38:43 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:38:43 [Note] Plugin 'InnoDB' is disabled.
+100330 10:38:43 [Note] Event Scheduler: Loaded 0 events
+100330 10:38:43 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:38:56 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:38:56 [Note] Plugin 'InnoDB' is disabled.
+100330 10:38:56 [Note] Event Scheduler: Loaded 0 events
+100330 10:38:56 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:39:41 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:39:41 [Note] Plugin 'InnoDB' is disabled.
+100330 10:39:41 [Note] Event Scheduler: Loaded 0 events
+100330 10:39:41 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:39:47 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:39:47 [Note] Plugin 'InnoDB' is disabled.
+100330 10:39:47 [Note] Event Scheduler: Loaded 0 events
+100330 10:39:47 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:40:12 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:40:12 [Note] Plugin 'InnoDB' is disabled.
+100330 10:40:12 [Note] Event Scheduler: Loaded 0 events
+100330 10:40:12 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:40:30 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:40:30 [Note] Plugin 'InnoDB' is disabled.
+100330 10:40:30 [Note] Event Scheduler: Loaded 0 events
+100330 10:40:30 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:41:10 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:41:10 [Note] Plugin 'InnoDB' is disabled.
+100330 10:41:10 [Note] Event Scheduler: Loaded 0 events
+100330 10:41:10 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:41:27 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:41:27 [Note] Plugin 'InnoDB' is disabled.
+100330 10:41:27 [Note] Event Scheduler: Loaded 0 events
+100330 10:41:27 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:47:59 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:47:59 [Note] Plugin 'InnoDB' is disabled.
+100330 10:47:59 [Note] Event Scheduler: Loaded 0 events
+100330 10:47:59 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:48:05 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:48:05 [Note] Plugin 'InnoDB' is disabled.
+100330 10:48:05 [Note] Event Scheduler: Loaded 0 events
+100330 10:48:05 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:48:23 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:48:23 [Note] Plugin 'InnoDB' is disabled.
+100330 10:48:23 [Note] Event Scheduler: Loaded 0 events
+100330 10:48:23 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:50:00 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:50:00 [Note] Plugin 'InnoDB' is disabled.
+100330 10:50:00 [Note] Event Scheduler: Loaded 0 events
+100330 10:50:00 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:50:04 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:50:04 [Note] Plugin 'InnoDB' is disabled.
+100330 10:50:04 [Note] Event Scheduler: Loaded 0 events
+100330 10:50:04 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:50:08 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:50:08 [Note] Plugin 'InnoDB' is disabled.
+100330 10:50:08 [Note] Event Scheduler: Loaded 0 events
+100330 10:50:08 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:50:24 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:50:24 [Note] Plugin 'InnoDB' is disabled.
+100330 10:50:24 [Note] Event Scheduler: Loaded 0 events
+100330 10:50:24 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:51:14 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:51:14 [Note] Plugin 'InnoDB' is disabled.
+100330 10:51:15 [Note] Event Scheduler: Loaded 0 events
+100330 10:51:15 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:52:45 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:52:45 [Note] Plugin 'InnoDB' is disabled.
+100330 10:52:45 [Note] Event Scheduler: Loaded 0 events
+100330 10:52:45 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:54:29 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:54:29 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 10:54:29 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 10:54:29 [ERROR] Aborting
+
+100330 10:54:29 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 10:55:16 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:55:16 [Note] Plugin 'InnoDB' is disabled.
+100330 10:55:16 [Note] Event Scheduler: Loaded 0 events
+100330 10:55:16 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:55:48 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:55:48 [Note] Plugin 'InnoDB' is disabled.
+100330 10:55:48 [Note] Event Scheduler: Loaded 0 events
+100330 10:55:48 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:56:28 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:56:28 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 10:56:28 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 10:56:28 [ERROR] Aborting
+
+100330 10:56:28 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 10:56:44 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:56:44 [Note] Plugin 'InnoDB' is disabled.
+100330 10:56:44 [Note] Event Scheduler: Loaded 0 events
+100330 10:56:44 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 10:59:44 [Note] Plugin 'FEDERATED' is disabled.
+100330 10:59:44 [Note] Plugin 'InnoDB' is disabled.
+100330 10:59:44 [Note] Event Scheduler: Loaded 0 events
+100330 10:59:44 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:00:08 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:00:08 [Note] Plugin 'InnoDB' is disabled.
+100330 11:00:08 [Note] Event Scheduler: Loaded 0 events
+100330 11:00:08 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:00:54 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:00:54 [Note] Plugin 'InnoDB' is disabled.
+100330 11:00:54 [Note] Event Scheduler: Loaded 0 events
+100330 11:00:54 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:05:37 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:05:37 [Note] Plugin 'InnoDB' is disabled.
+100330 11:05:37 [Note] Event Scheduler: Loaded 0 events
+100330 11:05:37 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:05:47 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:05:47 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:05:47 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:05:47 [ERROR] Aborting
+
+100330 11:05:47 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:06:31 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:06:31 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:06:31 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:06:31 [ERROR] Aborting
+
+100330 11:06:31 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:08:32 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:08:32 [Note] Plugin 'InnoDB' is disabled.
+100330 11:08:32 [Note] Event Scheduler: Loaded 0 events
+100330 11:08:32 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:09:00 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:09:00 [Note] Plugin 'InnoDB' is disabled.
+100330 11:09:00 [Note] Event Scheduler: Loaded 0 events
+100330 11:09:00 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:09:11 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:09:11 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:09:11 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:09:11 [ERROR] Aborting
+
+100330 11:09:11 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:09:35 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:09:35 [Note] Plugin 'InnoDB' is disabled.
+100330 11:09:35 [Note] Event Scheduler: Loaded 0 events
+100330 11:09:35 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:09:54 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:09:54 [Note] Plugin 'InnoDB' is disabled.
+100330 11:09:54 [Note] Event Scheduler: Loaded 0 events
+100330 11:09:54 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:11:53 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:11:53 [Note] Plugin 'InnoDB' is disabled.
+100330 11:11:53 [Note] Event Scheduler: Loaded 0 events
+100330 11:11:53 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:12:29 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:12:29 [Note] Plugin 'InnoDB' is disabled.
+100330 11:12:29 [Note] Event Scheduler: Loaded 0 events
+100330 11:12:29 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:14:31 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:14:31 [Note] Plugin 'InnoDB' is disabled.
+100330 11:14:31 [Note] Event Scheduler: Loaded 0 events
+100330 11:14:31 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 11:15:00 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:15:00 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:15:00 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:15:00 [ERROR] Aborting
+
+100330 11:15:00 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:15:13 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:15:13 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:15:13 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:15:13 [ERROR] Aborting
+
+100330 11:15:13 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:17:15 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:17:15 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:17:15 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:17:15 [ERROR] Aborting
+
+100330 11:17:15 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:20:19 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:20:19 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:20:19 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:20:19 [ERROR] Aborting
+
+100330 11:20:19 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:22:27 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:22:27 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:22:27 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:22:27 [ERROR] Aborting
+
+100330 11:22:27 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:23:27 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:23:27 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:23:27 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:23:27 [ERROR] Aborting
+
+100330 11:23:27 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:23:40 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:23:40 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:23:40 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:23:40 [ERROR] Aborting
+
+100330 11:23:40 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 11:24:05 [Note] Plugin 'FEDERATED' is disabled.
+100330 11:24:05 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 11:24:05 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 11:24:05 [ERROR] Aborting
+
+100330 11:24:05 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 14:54:34 [Note] Plugin 'FEDERATED' is disabled.
+100330 14:54:34 [Note] Plugin 'InnoDB' is disabled.
+100330 14:54:34 [Note] Event Scheduler: Loaded 0 events
+100330 14:54:34 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 14:56:39 [Note] Plugin 'FEDERATED' is disabled.
+100330 14:56:39 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 14:56:39 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 14:56:39 [ERROR] Aborting
+
+100330 14:56:39 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 15:24:34 [Note] Plugin 'FEDERATED' is disabled.
+100330 15:24:34 [Note] Plugin 'InnoDB' is disabled.
+100330 15:24:34 [Note] Event Scheduler: Loaded 0 events
+100330 15:24:34 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 15:37:27 [Note] Plugin 'FEDERATED' is disabled.
+100330 15:37:27 [Note] Plugin 'InnoDB' is disabled.
+100330 15:37:27 [Note] Event Scheduler: Loaded 0 events
+100330 15:37:27 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100330 15:42:58 [Note] Plugin 'FEDERATED' is disabled.
+100330 15:42:58 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100330 15:42:58 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100330 15:42:58 [ERROR] Aborting
+
+100330 15:42:58 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100330 15:45:40 [Note] Plugin 'FEDERATED' is disabled.
+100330 15:45:40 [Note] Plugin 'InnoDB' is disabled.
+100330 15:45:41 [Note] Event Scheduler: Loaded 0 events
+100330 15:45:41 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100401 15:28:44 [Note] Plugin 'FEDERATED' is disabled.
+100401 15:28:44 [Note] Plugin 'InnoDB' is disabled.
+100401 15:28:44 [Note] Event Scheduler: Loaded 0 events
+100401 15:28:44 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100406 22:06:53 [Note] Plugin 'FEDERATED' is disabled.
+100406 22:06:53 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100406 22:06:53 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100406 22:06:53 [ERROR] Aborting
+
+100406 22:06:53 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100406 23:01:47 [Note] Plugin 'FEDERATED' is disabled.
+100406 23:01:47 [Note] Plugin 'InnoDB' is disabled.
+100406 23:01:47 [Note] Event Scheduler: Loaded 0 events
+100406 23:01:47 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100406 23:02:49 [Note] Plugin 'FEDERATED' is disabled.
+100406 23:02:49 [Note] Plugin 'InnoDB' is disabled.
+100406 23:02:49 [Note] Event Scheduler: Loaded 0 events
+100406 23:02:49 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100712 11:46:22 [Note] Plugin 'FEDERATED' is disabled.
+100712 11:46:22 [Note] Plugin 'InnoDB' is disabled.
+100712 11:46:22 [Note] Event Scheduler: Loaded 0 events
+100712 11:46:22 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100712 12:17:09 [Note] Plugin 'FEDERATED' is disabled.
+100712 12:17:09 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100712 12:17:09 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100712 12:17:09 [ERROR] Aborting
+
+100712 12:17:09 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100712 17:04:53 [Note] Plugin 'FEDERATED' is disabled.
+100712 17:04:53 [Note] Plugin 'InnoDB' is disabled.
+100712 17:04:53 [Note] Event Scheduler: Loaded 0 events
+100712 17:04:53 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100712 17:27:54 [Note] Plugin 'FEDERATED' is disabled.
+100712 17:27:54 [Note] Plugin 'InnoDB' is disabled.
+100712 17:27:54 [Note] Event Scheduler: Loaded 0 events
+100712 17:27:54 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100712 22:55:29 [Note] Plugin 'FEDERATED' is disabled.
+100712 22:55:29 [Note] Plugin 'InnoDB' is disabled.
+100712 22:55:29 [Note] Event Scheduler: Loaded 0 events
+100712 22:55:29 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100713 12:52:02 [Note] Plugin 'FEDERATED' is disabled.
+100713 12:52:02 [Note] Plugin 'InnoDB' is disabled.
+100713 12:52:02 [Note] Event Scheduler: Loaded 0 events
+100713 12:52:02 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100713 13:06:07 [Note] Plugin 'FEDERATED' is disabled.
+100713 13:06:07 [Note] Plugin 'InnoDB' is disabled.
+100713 13:06:07 [Note] Event Scheduler: Loaded 0 events
+100713 13:06:07 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100713 13:06:18 [Note] Plugin 'FEDERATED' is disabled.
+100713 13:06:18 [Note] Plugin 'InnoDB' is disabled.
+100713 13:06:18 [Note] Event Scheduler: Loaded 0 events
+100713 13:06:18 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 22:44:07 [Note] Plugin 'FEDERATED' is disabled.
+100715 22:44:07 [Note] Plugin 'InnoDB' is disabled.
+100715 22:44:08 [Note] Event Scheduler: Loaded 0 events
+100715 22:44:08 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 22:47:48 [Note] Plugin 'FEDERATED' is disabled.
+100715 22:47:48 [Note] Plugin 'InnoDB' is disabled.
+100715 22:47:48 [Note] Event Scheduler: Loaded 0 events
+100715 22:47:48 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:15:37 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:15:37 [Note] Plugin 'InnoDB' is disabled.
+100715 23:15:37 [Note] Event Scheduler: Loaded 0 events
+100715 23:15:37 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:16:48 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:16:48 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+100715 23:16:48 [ERROR] Do you already have another mysqld server running on port: 3307 ?
+100715 23:16:48 [ERROR] Aborting
+
+100715 23:16:48 [Note] mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+100715 23:17:32 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:17:32 [Note] Plugin 'InnoDB' is disabled.
+100715 23:17:32 [Note] Event Scheduler: Loaded 0 events
+100715 23:17:32 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:18:18 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:18:18 [Note] Plugin 'InnoDB' is disabled.
+100715 23:18:18 [Note] Event Scheduler: Loaded 0 events
+100715 23:18:18 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:20:39 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:20:39 [Note] Plugin 'InnoDB' is disabled.
+100715 23:20:39 [Note] Event Scheduler: Loaded 0 events
+100715 23:20:39 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:21:19 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:21:19 [Note] Plugin 'InnoDB' is disabled.
+100715 23:21:19 [Note] Event Scheduler: Loaded 0 events
+100715 23:21:19 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:22:05 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:22:05 [Note] Plugin 'InnoDB' is disabled.
+100715 23:22:05 [Note] Event Scheduler: Loaded 0 events
+100715 23:22:05 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:22:52 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:22:52 [Note] Plugin 'InnoDB' is disabled.
+100715 23:22:52 [Note] Event Scheduler: Loaded 0 events
+100715 23:22:52 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:25:00 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:25:00 [Note] Plugin 'InnoDB' is disabled.
+100715 23:25:00 [Note] Event Scheduler: Loaded 0 events
+100715 23:25:00 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100715 23:59:40 [Note] Plugin 'FEDERATED' is disabled.
+100715 23:59:40 [Note] Plugin 'InnoDB' is disabled.
+100715 23:59:40 [Note] Event Scheduler: Loaded 0 events
+100715 23:59:40 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100716  0:28:07 [Note] Plugin 'FEDERATED' is disabled.
+100716  0:28:07 [Note] Plugin 'InnoDB' is disabled.
+100716  0:28:07 [Note] Event Scheduler: Loaded 0 events
+100716  0:28:07 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+100716  0:28:39 [Note] Plugin 'FEDERATED' is disabled.
+100716  0:28:39 [Note] Plugin 'InnoDB' is disabled.
+100716  0:28:39 [Note] Event Scheduler: Loaded 0 events
+100716  0:28:39 [Note] mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
